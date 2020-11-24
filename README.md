@@ -1,4 +1,4 @@
-<img alt="Banner" src="assets/banner/wlop_hawk_4k.jpg"></img>
+<img alt="Banner" src="assets/banner/wlop_hawk_2k.jpg"></img>
 <h1 align="center">Oh Hey</h1>
 <p align="center">I'm Fabian but most people just call me <b>Weber</b>.</p>
 
